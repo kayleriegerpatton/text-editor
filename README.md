@@ -43,4 +43,4 @@ npm run start
 
 ## GIF
 
-![In-browser text editor run-through gif](client/dist/assets/images/00-demo.gif)
+![In-browser text editor run-through gif](client/src/images/00-demo.gif)
