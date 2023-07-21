@@ -4,7 +4,6 @@
 
 - [Description](#description)
   - [Technologies](#technologies)
-  - [Deployed Application](#deployed-application)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Run the App](#run-the-app)
@@ -20,10 +19,6 @@ This single page application uses IndexedDB and Express to allow users to edit t
 - Express.js
 - JavaScript
 - IndexedDB
-
-### Deployed Application
-
-[View the deployed application](https://still-taiga-19571.herokuapp.com/)
 
 ## Getting Started
 
